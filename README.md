@@ -1,6 +1,5 @@
 # 从零开始的 JSON 库
-作者：Milo Yip
-教程：https://github.com/miloyip/json-tutorial
+教程：https://github.com/miloyip/json-tutorial 作者：Milo Yip
 
 ## 特性及涉及知识
 
